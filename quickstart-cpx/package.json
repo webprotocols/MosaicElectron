@@ -1,0 +1,19 @@
+{
+  "name": "quickstart-cpx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cpx \"src/**/*.{html,css,js,png,jpg}\" app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cpx": "cpx \"src/**/*.{html,png,jpg}\" app",
+    "cpx:w": "cpx \"src/**/*.{html,png,jpg}\" app --watch",
+    "rm" : "rm -rf app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cpx": "^1.5.0"
+  }
+}

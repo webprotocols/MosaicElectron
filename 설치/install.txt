@@ -1,0 +1,32 @@
+1. Visual Studio 2013 설치
+    >> wdexpress_full.exe
+
+2. Python  설치
+    >> python-2.7.13.msi
+
+3. Oracle Instance  설치
+    >> instantclient_12_1.zip
+    >> OCI_INC_DIR=C:\oraclexe\instantclient_12_1\sdk\include
+    >> OCI_LIB_DIR=C:\oraclexe\instantclient_12_1\sdk\lib\msvc    
+
+4. Java 설치
+    >> jdk-8u111-windows-x64.exe
+    >> JAVA_HOME
+    >> PATH
+
+5. Git 설치
+    >> Git-2.11.0-64-bit.exe
+
+6. Node.js  설치
+    >> node-v6.9.2-x64.msi
+
+7. Spring Cli  설치
+    >> spring-boot-cli-1.4.3.RELEASE-bin.zip
+    >> SPRING_HOME
+    >> PATH
+
+8. VSCode  설치
+    >> VSCodeSetup-1.8.1.exe                     
+
+
+    
