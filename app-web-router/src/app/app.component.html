@@ -1,0 +1,28 @@
+<header class="row">
+    <header-content>Header Content Componet</header-content>
+</header>
+
+<section class="row">
+    <aside class="col-sm-3 col-md-3">
+        <ol>
+            <li><a routerLink="/">Home</a></li>
+            <li><a routerLink="/dept/list">Dept List Componet</a></li>
+            <li><a routerLink="/dept/append">Dept Append Componet</a></li>
+            <li><a routerLink="/dept/modify">Dept Modify Componet</a></li>
+            <li><a routerLink="/dept/delete">Dept Delete Componet</a></li>
+        </ol>
+
+    </aside>
+    <article class="col-sm-9 col-md-6">
+        <router-outlet>
+            
+        </router-outlet>
+    </article>
+    <aside class="col-sm-12 col-md-3">
+        <img src="http://www.placehold.it/100x100" width="100%">
+    </aside>
+</section>
+
+<footer class="row">
+    <footer-content>Footer Content Componet</footer-content>
+</footer>

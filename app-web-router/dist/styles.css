@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+/*
+2016-10-06
+*/
+
+header, footer, section {
+    border: 1px solid red;
+
+}
+
+
