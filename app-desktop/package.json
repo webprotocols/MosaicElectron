@@ -50,5 +50,5 @@
     "typescript": "~2.0.10"
   },
   "repository": {},
-  "main": "electron.js"
+  "main": "electron_main.js"
 }
